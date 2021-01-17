@@ -21,33 +21,33 @@ Badges are generated through <a href="https://github.com/aleen42/badges" target=
 
   <div align="left" style="margin-top: 10px;">
     <span style="margin-right: 5px;">
-      <a href="https://linkedin.com/in/angelica-albuquerque/" target="blank" style="text-decoration:none;">
-        <img src="icons\linkedin.svg" height="32" width="32" style="border-radius: 50%" alt="Linkedin"/>
+      <a href="https://linkedin.com/in/angelica-albuquerque/" target="blank" style="text-decoration: none;">
+        <img align="center" src="icons\linkedin.svg" height="32" width="32" style="border-radius: 50%" alt="Linkedin"/>
       </a>
     </span>
     <span style="margin-right: 5px;">
-      <a href="https://twitter.com/angelica_oa/" target="blank" style="text-decoration:none;">
-        <img src="icons\twitter.svg" height="32" width="32" style="border-radius: 50%" alt="Twitter"/>
+      <a href="https://twitter.com/angelica_oa/" target="blank" style="text-decoration: none;">
+        <img align="center" src="icons\twitter.svg" height="32" width="32" style="border-radius: 50%;" alt="Twitter"/>
       </a>
     </span>
     <span style="margin-right: 5px;">
-      <a href="mailto:angelica.o.albuquerque@gmail.com" target="blank" style="text-decoration:none;">
-        <img src="icons\email.svg" height="32" width="32" style="border-radius: 50%" alt="Email"/>
+      <a href="mailto:angelica.o.albuquerque@gmail.com" target="blank" style="text-decoration: none;">
+        <img align="center" src="icons\email.svg" height="32" width="32" style="border-radius: 50%;" alt="Email"/>
       </a>
     </span>
    <span style="margin-right: 5px;">
-      <a href="https://dev.to/angelica_oa" target="blank" style="text-decoration:none;">
-        <img src="icons\devto.svg" height="35" width="35" style="border-radius: 50%" alt="DevTo"/>
+      <a href="https://dev.to/angelica_oa" target="blank" style="text-decoration: none;">
+        <img align="center" src="icons\devto.svg" height="32" width="32" style="border-radius: 50%;" alt="DevTo"/>
       </a>
     </span>
     <span style="margin-right: 5px;">
-      <a href="https://www.instagram.com/angelicaoa.dev/" target="blank" style="text-decoration:none;">
-        <img src="icons\instagram.svg" height="32" width="32" style="border-radius: 50%" alt="Instagram"/>
+      <a href="https://www.instagram.com/angelicaoa.dev/" target="blank" style="text-decoration: none;">
+        <img align="center" src="icons\instagram.svg" height="32" width="32" style="border-radius: 50%;" alt="Instagram"/>
       </a>
     </span>
     <span style="margin-right: 5px;">
-      <a href="https://br.pinterest.com/angelica_oa" target="blank" style="text-decoration:none;">
-        <img src="icons\pinterest.svg" height="32" width="32" style="border-radius: 50%" alt="Pinterest"/>
+      <a href="https://br.pinterest.com/angelica_oa" target="blank" style="text-decoration: none;">
+        <img align="center" src="icons\pinterest.svg" height="32" width="32" style="border-radius: 50%" alt="Pinterest"/>
       </a>
     </span>
 
