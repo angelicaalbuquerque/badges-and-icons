@@ -19,46 +19,34 @@ Badges are generated through <a href="https://github.com/aleen42/badges" target=
 
 ## 📬 Contact me
 
-  <div align="left" style="margin-top: 10px;">
-    <span style="margin-right: 5px;">
-      <a href="https://linkedin.com/in/angelica-albuquerque/" target="blank" style="text-decoration: none;">
-        <img align="center" src="icons\linkedin.svg" height="32" width="32" style="border-radius: 50%" alt="Linkedin"/>
-      </a>
-    </span>
-    <span style="margin-right: 5px;">
-      <a href="https://twitter.com/angelica_oa/" target="blank" style="text-decoration: none;">
-        <img align="center" src="icons\twitter.svg" height="32" width="32" style="border-radius: 50%;" alt="Twitter"/>
-      </a>
-    </span>
-    <span style="margin-right: 5px;">
-      <a href="mailto:angelica.o.albuquerque@gmail.com" target="blank" style="text-decoration: none;">
-        <img align="center" src="icons\email.svg" height="32" width="32" style="border-radius: 50%;" alt="Email"/>
-      </a>
-    </span>
-   <span style="margin-right: 5px;">
-      <a href="https://dev.to/angelica_oa" target="blank" style="text-decoration: none;">
-        <img align="center" src="icons\devto.svg" height="32" width="32" style="border-radius: 50%;" alt="DevTo"/>
-      </a>
-    </span>
-    <span style="margin-right: 5px;">
-      <a href="https://www.instagram.com/angelicaoa.dev/" target="blank" style="text-decoration: none;">
-        <img align="center" src="icons\instagram.svg" height="32" width="32" style="border-radius: 50%;" alt="Instagram"/>
-      </a>
-    </span>
-    <span style="margin-right: 5px;">
-      <a href="https://br.pinterest.com/angelica_oa" target="blank" style="text-decoration: none;">
-        <img align="center" src="icons\pinterest.svg" height="32" width="32" style="border-radius: 50%" alt="Pinterest"/>
-      </a>
-    </span>
+<p align="left">
 
-  </div>
+  <a href="https://linkedin.com/in/angelica-albuquerque/" target="blank" style="text-decoration: none; color: unset;">
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/linkedin.svg" alt="Linkedin" height="30" width="30" style="border-radius: 50%" />
+  </a> &nbsp
+  <a href="mailto:angelica.o.albuquerque@gmail.com" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/email.svg" alt="Email" height="30" width="30" style="border-radius: 50%"/>
+  </a> &nbsp 
+  <a href="https://twitter.com/frontangie" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/twitter.svg" alt="Twitter" height="30" width="30" style="border-radius: 50%"/>
+    </a> &nbsp
+  <a href="https://dev.to/frontangie" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/devto.svg" alt="DevTo" height="30" width="30" style="border-radius: 50%"/>
+  </a> &nbsp
+  <a href="https://br.pinterest.com/FrontAngie/" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/pinterest.svg" alt="Pinterest" height="30" width="30" style="border-radius: 50%"/>
+  </a> &nbsp
+  <a href="https://instagram.com/frontangie" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f7a53a1a79600d93eed5e21e8f32ff0256471e00/icons/instagram.svg" alt="Instagram" height="30" width="30" style="border-radius: 50%"/>
+  </a> &nbsp &nbsp
+</p>
 
 ---
 
 <p align="center">
-Made with ☕ and 🖤 by Angélica Albuquerque
+Feito com ☕ e 🖤 por Angélica Albuquerque
 </p>
 
 <p align="center">
-<img src="./gif/hi.gif" width="25px"> 
+<img src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/gif/hi.gif" width="25px"> 
 </p>
