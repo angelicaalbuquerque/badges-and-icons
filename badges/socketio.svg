@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="20">
+    <linearGradient id="b" x2="0" y2="100%">
+        <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+        <stop offset="1" stop-opacity=".1"/>
+    </linearGradient>
+
+    <clipPath id="a">
+        <rect width="93" height="20" rx="3" fill="#fff"/>
+    </clipPath>
+
+    <g clip-path="url(#a)">
+        <path fill="#555" d="M0 0h25v20H0z"/>
+        <path fill="#010101" d="M25 0h68v20H25z"/>
+        <path fill="url(#b)" d="M0 0h93v20H0z"/>
+    </g>
+    <g fill="#fff"
+        text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="12">
+        <image x="5" y="3" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjU2IDI1NiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWluWU1pbiBtZWV0Ij4KCTxjaXJjbGUgY3g9IjEyOCIgY3k9IjEyOCIgcj0iMTE0IiBzdHJva2U9IiMwMTAxMDEiIHN0cm9rZS13aWR0aD0iMjAiIGZpbGw9Im5vbmUiIC8+Cgk8cGF0aCBkPSJNOTcuNjM3IDEyMS42OWMyNy4zMjctMjIuMzI2IDU0LjA1OC00NS40MjYgODEuOTgtNjcuMDk3LTE0LjY0NiAyMi41MDUtMjkuNzA4IDQ0LjcxMS00NC4zNTQgNjcuMjE1LTEyLjU2Mi4wNi0yNS4xMjMuMDYtMzcuNjI2LS4xMTl6TTEyMC43MzcgMTM0LjEzMmMxMi42MjEgMCAyNS4xODMgMCAzNy43NDUuMTc5LTI3LjUwNSAyMi4yMDYtNTQuMTE3IDQ1LjQ4NC04Mi4wOTkgNjcuMDk2IDE0LjY0Ni0yMi41MDUgMjkuNzA4LTQ0Ljc3IDQ0LjM1NC02Ny4yNzV6IiBmaWxsPSIjMDEwMTAxIi8+Cjwvc3ZnPg=="/>
+        <text x="58" y="14.6" fill="#010101" fill-opacity=".3">Socket.IO</text>
+        <text x="58" y="14">Socket.IO</text>
+    </g>
+</svg>
