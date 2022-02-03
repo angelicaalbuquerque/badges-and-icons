@@ -15,7 +15,7 @@
 <p>
 This repository is where I allocate badges and icons used by me in my project descriptions on Github.
 
-Badges are generated through <a href="https://github.com/aleen42/badges" target="_blank">this project</a> (made by <a href="https://github.com/aleen42" target="_blank">PuiMan Cheui</a>), while icons are created via <a href="https://github.com/edent/SuperTinyIcons" target="_blank">Super Tiny Icons</a> (made by <a href="https://github.com/edent/SuperTinyIcons" target="_blank">Terence Eden</a>).
+Badges are generated through <a href="https://github.com/aleen42/badges" target="_blank">this project</a> (made by <a href="https://github.com/aleen42" target="_blank">PuiMan Cheui</a>), while square icons are created via <a href="https://github.com/edent/SuperTinyIcons" target="_blank">Super Tiny Icons</a> (made by <a href="https://github.com/edent/SuperTinyIcons" target="_blank">Terence Eden</a>). The circle icons are created by me.
 
 ## 📬 Contact me
 
